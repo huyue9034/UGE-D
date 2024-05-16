@@ -6,7 +6,7 @@ UGE-D is tailored specifically for urban green extraction. It contains more than
 
 This dataset consists of nine categories: "water", "architecture", "facility", "sky", "flat", "plant_tree", "plant_shrub", "plant_lawn", and "plant_flower".
 
-The repository contains the original images and masks of the dataset.
+The repository contains the original images and masks of the dataset. We will continue to expand and refine the UGE-D.
 
 ## Full Version
 You can get the full version at 
