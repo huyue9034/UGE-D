@@ -13,10 +13,17 @@ The repository contains the original images and masks of the dataset.
 If you use UGE-D in your research, please use the following BibTeX entry.
 
 @article{hu2024capturing,
+
   title={Capturing urban green view with mobile crowd sensing},
+  
   author={Hu, Yingqiang and Wu, Yue and Tantian, Zhuzi and Sun, Guodong},
+  
   journal={Ecological Informatics},
+  
   pages={102640},
+  
   year={2024},
+  
   publisher={Elsevier}
+  
 }
