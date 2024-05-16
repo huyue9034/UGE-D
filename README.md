@@ -8,6 +8,11 @@ This dataset consists of nine categories: "water", "architecture", "facility", "
 
 The repository contains the original images and masks of the dataset.
 
+## Full Version
+You can get the full version at
+https://pan.baidu.com/s/11TOw6ec0Un9grp7N-lP-zQ?pwd=UGED 
+password：UGED
+
 ## Cite UGE-D
 
 If you use UGE-D in your research, please cite as
