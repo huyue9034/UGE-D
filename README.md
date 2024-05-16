@@ -10,9 +10,10 @@ The repository contains the original images and masks of the dataset.
 
 ## Cite UGE-D
 
-If you use UGE-D in your research, please use the following BibTeX entry.
+If you use UGE-D in your research, please cite as
 
->@article{hu2024capturing,
+```BibTeX
+@article{hu2024capturing,
   title={Capturing urban green view with mobile crowd sensing},
   author={Hu, Yingqiang and Wu, Yue and Tantian, Zhuzi and Sun, Guodong},
   journal={Ecological Informatics},
@@ -20,3 +21,4 @@ If you use UGE-D in your research, please use the following BibTeX entry.
   year={2024},
   publisher={Elsevier}
 }
+```
