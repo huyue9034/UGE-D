@@ -26,6 +26,7 @@ If you use UGE-D in your research, please cite as
   journal={Ecological Informatics},
   pages={102640},
   year={2024},
+  doi = {https://doi.org/10.1016/j.ecoinf.2024.102640},
   publisher={Elsevier}
 }
 ```
