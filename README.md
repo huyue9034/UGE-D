@@ -17,7 +17,9 @@ password：UGED
 
 ## Cite UGE-D
 
-If you use UGE-D in your research, please cite as
+The UGE-D dataset is exclusively available for academic research purposes at no cost, and is not permitted for commercial use. 
+
+The citation of the following reference is required when incorporating this dataset into academic publications.
 
 ```BibTeX
 @article{hu2024capturing,
