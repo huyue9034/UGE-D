@@ -28,7 +28,7 @@ The citation of the following reference is required when incorporating this data
   journal={Ecological Informatics},
   pages={102640},
   year={2024},
-  doi = {https://doi.org/10.1016/j.ecoinf.2024.102640},
+  doi={https://doi.org/10.1016/j.ecoinf.2024.102640},
   publisher={Elsevier}
 }
 ```
